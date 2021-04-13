@@ -1,0 +1,6 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+course_manager,coursemanager,model_galaxyacademy_course,group_manager,1,1,1,1
+session_manager,sessionmanager,model_galaxyacademy_session,group_manager,1,1,1,1
+wizard_manager,wizardsessionmanager,model_galaxyacademy_wizard,group_manager,1,1,1,1
+course_read_all,courseall,model_galaxyacademy_course,,1,0,0,0
+session_read_all,sessionall,model_galaxyacademy_session,,1,0,0,0
